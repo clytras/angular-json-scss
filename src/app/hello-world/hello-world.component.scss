@@ -1,0 +1,7 @@
+@import 'hello-world.vars.json';
+
+.hello-bg {
+  padding: 20px;
+  background-color: $bg-color;
+  border: 2px solid $border-color;
+}
